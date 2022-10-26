@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/99891151/198128114-461e5cec-ba6c-41e6-94a8-10529a979db5.png)
 
 <!--
 **DiogoSp1/DiogoSp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
